@@ -149,7 +149,7 @@
 
   set text(10pt)
   // Configure equation numbering and spacing.
-  set math.equation(numbering: "[1.1]")
+  // set math.equation(numbering: "[1.1]")
   show math.equation: eq => {
     set block(spacing: 0.65em)
     eq
